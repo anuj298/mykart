@@ -1,0 +1,15 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 5px 10px;
+    background-color: indigo;
+    color: antiquewhite;
+    border-color: burlywood;
+    border: 55px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+}
